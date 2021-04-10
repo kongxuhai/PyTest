@@ -1,4 +1,3 @@
-# 确定玩家数量
 num_player = int(input("请确定玩家数："))  # 确定玩家数量
 while num_player < 2:
     print("最少需要两名玩家")
